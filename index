@@ -1,14 +1,15 @@
 <!DOCTYPE html>
 <html lang="en">
-<head><h1>Shannon C Waggoner</h1></head>
-  <body>	
+<head><title>Shannon</title></head>
+  <body>
+ <h1>Shannon C Waggoner</h1>	
    <p><a href="http://www.shannonwdesigns.com">Portfolio</a> <a href="http://www.amazon.com">Shopping</a> <a href="http://www.coursera.com">Coursera</a> <a href="https://www.linkedin.com/in/shannon-waggoner/">LinkedIn</a></p>
   <br>
-  <p><h2>Favorite Foods</h2>
-    <ul><li>Chocolate</li><li>Cheeseburgers</li><li>Strawberries</li><li>Lobster</li></p>
-  <br>
+  <h2>Favorite Foods</h2>
+    <ul><li>Chocolate</li><li>Cheeseburgers</li><li>Strawberries</li><li>Lobster</li></ul>
+
   <h2>Achievements</h2>
-  <br>
+
     <p>Progress in Course (100%):
     <progress value="100" max="100"></progress></p>
     <p>Progress in Specialization Capstone (20%):
@@ -16,7 +17,7 @@
     <p>Progress in Changing Careers (75%):
     <progress value="75" max="100"></progress></p>
   <br>
-  <p><h2>More About Me</h2></p>
+ <h2>More About Me</h2>
  <details>
   <summary>My Childhood</summary>
   <p>I grew up in Maine. I was very involved in music in school and went on to major in music in college.</p>
